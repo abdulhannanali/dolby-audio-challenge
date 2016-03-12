@@ -61,6 +61,10 @@ footer {
 }
 
 /* Music styling */
+
+.audio-files {
+  display: inline-block;
+}
 .schubert-845  {
   text-align: left;
 }
